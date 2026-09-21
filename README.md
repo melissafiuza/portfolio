@@ -17,10 +17,16 @@ A proposta é criar um espaço para apresentar minha evolução como desenvolved
 
 ## 🛠️ Tecnologias
 
-As tecnologias utilizadas no desenvolvimento do portfólio serão adicionadas conforme o projeto evoluir.
+- React — desenvolvimento da interface;
+- JavaScript — lógica e interatividade;
+- CSS — estilização e responsividade;
+- Vite — ambiente de desenvolvimento e build;
+- Git — controle de versão;
+- GitHub — hospedagem e versionamento do projeto.
 
 ## 🚀 Projeto
 
+🔗 [Acessar site](https://melissa-fiuza.vercel.app)
 🔗 [Repositório no GitHub](https://github.com/melissafiuza/portfolio)
 
 ## 👩🏻‍💻 Desenvolvido por
